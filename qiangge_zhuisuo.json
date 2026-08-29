@@ -1,9 +1,12 @@
 ﻿{
     "name":  "qiangge_zhuisuo.sh",
-    "version":  "initial-20260830",
-    "size":  16137112,
-    "sha256":  "76d21079ccf3f8de889ecf8e41aff4b2abe733e688698ffecc7cd88893be6e84",
-    "built_at_utc":  "2026-08-29T16:46:40.7638933Z",
+    "version":  "1.1.10",
+    "version_name":  "1.1.10",
+    "version_code":  10110,
+    "size":  16137544,
+    "sha256":  "7ead3a5f7600bcbb17c10bd123f929bf5c85d0ccb745f21590bb4a4838ac2d87",
+    "artifact_sha256":  "7ead3a5f7600bcbb17c10bd123f929bf5c85d0ccb745f21590bb4a4838ac2d87",
+    "built_at_utc":  "2026-08-29T23:37:16.8380234Z",
     "download_url":  "https://raw.githubusercontent.com/Gron0815/qiangge-binary-updates/main/qiangge_zhuisuo.sh",
     "manifest_url":  "https://raw.githubusercontent.com/Gron0815/qiangge-binary-updates/main/qiangge_zhuisuo.json"
 }
